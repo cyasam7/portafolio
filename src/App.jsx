@@ -36,7 +36,7 @@ function App() {
         "RESPONSIVE DESIGN",
         "CSS GRID",
         "SASS",
-        "BOOSTRAP",
+        "BOOTSTRAP",
         "REACT",
         "STYLED COMPONENTS",
       ],
