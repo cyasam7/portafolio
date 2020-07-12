@@ -12,7 +12,7 @@ const Header = () => {
           <p className="lead">
             Soy Alexander Serrano un apasionado de la tecnologia, me gusta
             programar y soy muy curioso con respecto como estan construidas
-            ciertas aplicaciones de nuestro dia a dia
+            ciertas aplicaciones de nuestro dia a dia.
           </p>
           <hr className="my-4" />
           <p>
@@ -31,6 +31,13 @@ const Header = () => {
             </li>
             <li>
               <p>Mexico Americano</p>
+            </li>
+            <li>
+              Contactos
+              <ul>
+              <li>cyasam7@gmail.com</li>
+              <li>6183240572</li>
+              </ul>
             </li>
           </ul>
         </div>
