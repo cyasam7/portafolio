@@ -45,7 +45,7 @@ function App() {
       titulo: "BACKEND DEVELOPER",
       descripcion:
         "Me adentre en el desarrollo web FullStack con el Stack MERN, me encanto desarrollar con reacr y cada dia voy aprendiendo cosas nuevas con nodejs y mongodb, actualmente me encuentro aprendiendo nuevas arquitecturas para el desarrollo de API's.",
-      tecnologias: ["NODE.JS", "EXPRES", "MONGODB"],
+      tecnologias: ["NODE.JS", "EXPRESS", "MONGODB"],
     },
     {
       titulo: "MOVIL DEVELOPER",
