@@ -24,7 +24,13 @@ const Header = () => {
               <p>Alexander Serrano</p>
             </li>
             <li>
-              <p>Ingenieria en Sistemas Computacionales</p>
+              <p>Durango, DGO</p>
+            </li>
+            <li>
+              <p>Edad 20 años</p>
+            </li>
+            <li>
+              <p>Ingenieria en Sistemas Computacionales en el Instituto Tecnologico de Durango</p>
             </li>
             <li>
               <p>Javascript Developer</p>
@@ -35,8 +41,8 @@ const Header = () => {
             <li>
               Contactos
               <ul>
-              <li>cyasam7@gmail.com</li>
-              <li>6183240572</li>
+                <li>CORREO: cyasam7@gmail.com</li>
+                <li>TELEFONO: 6183240572</li>
               </ul>
             </li>
           </ul>

@@ -123,7 +123,7 @@ function App() {
           <div className="row d-flex justify-content-between">
             <div className="col-md-4">
               <ul>
-                <li>
+              <li>
                   <p>Alexander Serrano</p>
                 </li>
                 <li>
