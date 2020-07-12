@@ -16,7 +16,7 @@ const Header = () => {
           </p>
           <hr className="my-4" />
           <p>
-            Actualmente estudiante soy un estudiante de la carrera de Ingenieria
+            Actualmente soy un estudiante de la carrera de Ingenieria
             en Sistemas computacionales en el Instituto Tecnologico de Durango.
           </p>
           <ul>
